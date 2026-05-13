@@ -1,4 +1,4 @@
-# 
+# Enhance JetBrains Rider for PC | JetBrains Rider for Windows with rare JetBrains Rider for PC | JetBrains Rider for Windows Integration | refactoring-tools + code-analysis, the #1
 
 
 
